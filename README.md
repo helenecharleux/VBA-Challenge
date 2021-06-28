@@ -29,6 +29,7 @@ Our refactoring code is definitly more relevant for a bigger dataset. If our fir
 Running time for our first code for 2017
   
 ![Own code_2017](https://user-images.githubusercontent.com/85641189/123646180-995a0780-d7ec-11eb-8534-c15a9a681d23.png)
+  
 Running time for our first code for 2018
   
 ![Own code_2018](https://user-images.githubusercontent.com/85641189/123646521-e8a03800-d7ec-11eb-9afd-7f4cf17b24a1.png)
@@ -38,6 +39,7 @@ It will be a gain of time and memory in case Steve works on a dataset including 
 Running time for the refactored code for 2017
   
 ![Refactor time_2017](https://user-images.githubusercontent.com/85641189/123646298-b393e580-d7ec-11eb-97dd-a92cebe1972a.png)
+  
 Running time for the refactored code for 2018
   
 ![Refactor time_2018](https://user-images.githubusercontent.com/85641189/123646596-fb1a7180-d7ec-11eb-9625-5c2831931db0.png)
